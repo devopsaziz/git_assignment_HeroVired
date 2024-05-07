@@ -46,6 +46,8 @@ num3 = 25
 
 print(f"The square root of {num3} = {calculator.square_root(num3)}")
 
+print(f"The square root of {num3} = {calculator.square_root(num3)}")
+
 def divide(self, a, b):
 
 if b == 0:
